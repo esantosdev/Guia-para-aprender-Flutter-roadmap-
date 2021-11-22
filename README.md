@@ -1,5 +1,6 @@
 # Guia-para-aprender-Flutter-roadmap-
 Créditos ao autor da versão em inglês: Oleksandr Leushchenko
+Link versão original: https://github.com/olexale/flutter_roadmap
 
 Link GDrive: https://drive.google.com/file/d/1lxC8HR5S-khdaSk5TYVaeksFIbUzXL9s/view?usp=sharing
 
